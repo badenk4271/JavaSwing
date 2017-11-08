@@ -10,6 +10,11 @@ import java.awt.*;
  *
  * @author LAB01
  */
-public class Parametros {
+public class Parametros extends JFrame
+{
+    JPanel panel;
+    JLabel label;
+    JTextField text;
+    JButton boton;   
     
 }
