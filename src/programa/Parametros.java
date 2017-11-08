@@ -4,7 +4,8 @@
  * and open the template in the editor.
  */
 package programa;
-
+import javax.swing.*; //importamos todo de Swing
+import java.awt.*;
 /**
  *
  * @author LAB01
