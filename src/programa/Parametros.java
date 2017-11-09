@@ -21,7 +21,11 @@ public class Parametros extends JFrame
     
     public Parametros()
     {
-        
+        panel = new JPanel();//CREAMOS UN BOJETO DE TIPO JPanel
+        label = new JLabel();
+        text = new JTextField(20);//CANTIDAD DE CARACTERES
+        boton = new JButton(); 
+        cuadrado = new JCheckBox();
         
         
         
