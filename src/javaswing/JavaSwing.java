@@ -4,6 +4,9 @@
  * and open the template in the editor.
  */
 package javaswing;
+import programa.Parametros;// IMPORTAR PAQUETE.CLASE
+import javax.swing.JFrame;
+
 
 /**
  *
