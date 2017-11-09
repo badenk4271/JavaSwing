@@ -19,6 +19,15 @@ public class Parametros extends JFrame
     JCheckBox cuadrado;
     JRadioButton radio;
     
-    
+    public Parametros()
+    {
+        
+        
+        
+        
+        
+        
+    }
+            
     
 }
