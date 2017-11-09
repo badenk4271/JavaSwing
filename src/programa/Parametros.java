@@ -15,6 +15,10 @@ public class Parametros extends JFrame
     JPanel panel;
     JLabel label;
     JTextField text;
-    JButton boton;   
+    JButton boton;  
+    JCheckBox cuadrado;
+    JRadioButton radio;
+    
+    
     
 }
