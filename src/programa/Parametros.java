@@ -35,6 +35,9 @@ public class Parametros extends JFrame
         panel.add(cuadrado);
         panel.add(radio);
         
+        label.setText("Nombre");
+        boton.setText("Enviar");
+        panel.setBackground(Color.blue);// Color DE FONDO DEL JPanel
         
         
         
