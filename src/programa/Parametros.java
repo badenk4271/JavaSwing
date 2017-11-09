@@ -26,6 +26,15 @@ public class Parametros extends JFrame
         text = new JTextField(20);//CANTIDAD DE CARACTERES
         boton = new JButton(); 
         cuadrado = new JCheckBox();
+        radio = new JRadioButton();
+        
+        this.add(panel);// Agregamos el JPanel al JFrame
+        panel.add(label);//Agregamos los elementos al JPanel
+        panel.add(text);
+        panel.add(boton);
+        panel.add(cuadrado);
+        panel.add(radio);
+        
         
         
         
